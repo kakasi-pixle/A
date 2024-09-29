@@ -6,8 +6,8 @@ global.rpg = {
     if (isNaN(level)) return { name: '', level: '' }
     
     const role = [
-      { name: "جنية🧚‍♀️", level: 0 }, { name: "مبتدئ❄️", level: 4 }, 
-      { name: "ساحر🧙🏻", level: 8 }, { name: "مغوار🌙", level: 12 }, 
+      { name: "حمار لسه بادء", level: 0 }, { name: "مبتدئ❄️", level: 4 }, 
+      { name: "جامد متوسط", level: 8 }, { name: "مغوار🌙", level: 12 }, 
       { name: "فارس🏇🏻", level: 16 }, { name: "مغامر🔱", level: 20 }, 
       { name: "سينسي🪶", level: 24 }, { name: "محنك🧜‍♂️", level: 28 }, 
       { name: "قرصان🏴‍☠️", level: 32 }, { name: "حكيم🪔", level: 36 },
